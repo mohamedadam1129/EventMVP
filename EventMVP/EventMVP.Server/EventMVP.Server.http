@@ -1,0 +1,6 @@
+@EventMVP.Server_HostAddress = http://localhost:5106
+
+GET {{EventMVP.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
